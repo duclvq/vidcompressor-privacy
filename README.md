@@ -1,15 +1,6 @@
 # VidCompressor Public Pages
 
-This folder contains static pages that can be deployed as the public support/privacy site for App Store Connect.
+Static pages for VidCompressor, served by GitHub Pages.
 
-## Privacy Policy URL
-
-Deploy `privacy.html` to any static host, then enter that public URL in App Store Connect.
-
-Examples:
-
-- `https://yourdomain.com/privacy`
-- `https://yourusername.github.io/vidcompressor/privacy.html`
-- `https://vidcompressor.netlify.app/privacy.html`
-
-Before submitting, replace `support@example.com` in `privacy.html` with the real support email.
+- Support: https://duclvq.github.io/vidcompressor-privacy/support.html
+- Privacy Policy: https://duclvq.github.io/vidcompressor-privacy/privacy.html
